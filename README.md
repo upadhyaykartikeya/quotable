@@ -14,7 +14,7 @@ A simple and elegant quote generator web app that displays random inspirational 
 
 ## Screenshots
 
-![Screenshot](./screenshot.png) <!-- Replace with actual screenshot if available -->
+(./screenshot.png) <!-- Replace with actual screenshot if available -->
 
 ## Tech Stack
 
